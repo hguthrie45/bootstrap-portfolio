@@ -1,0 +1,70 @@
+img {margin-left: 10%}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 640px){
+
+img {width: 100%; height: auto}
+
+p   {clear: both}
+
+.card-title {margin-bottom: 55%}
+
+}
+
+
+@media screen and (max-width: 768px){
+
+p {margin-top: 15%}
+
+
+.container {margin-top: 15%}
+
+.col-md-5 {margin-top: 15%}
+
+.card-title {margin-top: 18%;
+	margin-right: 25%;
+	width: 100%;
+	 text-align: center}
+p {clear: both, margin-left:10%;}
+
+}
+
+@media screen and (max-width: 980px){
+img {width:100%;clear: both;}
+p {margin-top: 50%}
+
+}
